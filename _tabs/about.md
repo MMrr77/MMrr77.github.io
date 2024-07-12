@@ -8,7 +8,7 @@ order: 4
 
 Welcome!
 
-![My Avatar](/assets/img/avatar.png)
+![My Avatar](/assets/img/avatar.jpg)
 
 Happy 25th birthday!!!!!!!!!!!!!!!!!!
 Alles Gute zum 25. Geburtstag!!!!!!!!
